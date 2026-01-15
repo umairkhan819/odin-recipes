@@ -7,5 +7,5 @@ this is a practice project focused on html only (for now) to deepend my understa
 This project deepend my knowlege of showing images on web-pages, link many web-pages togather and how the files system works.
 
 # how to run
-1. Download or vlone thr repo
+1. Download or clone the repo
 2. Open `index.html` file in browser
