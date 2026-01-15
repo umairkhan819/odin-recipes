@@ -1,0 +1,21 @@
+body{
+    background-color: #faf7f2;
+    color: #333333;
+}
+
+h1 h2 h3 h4{
+    color: #1f1f1f;
+}
+
+a{
+    color: #6b8e23;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #556b1d;
+}
+
+ul{
+    color: #333333;
+}
